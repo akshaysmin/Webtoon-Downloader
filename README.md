@@ -13,6 +13,7 @@ What sensible_sort.py does:
 Assists script2 in sorting images by name
 
 ## README for webtoon_downloader.py:
+
 Ways to use program from command line:
    python comic_download_header.py metafile #no_of_episodes taken from metafile\n
    python comic_download_header.py metafile no_of_episodes
@@ -30,6 +31,7 @@ bs4, webbrowser, requests, time, sys, json
 ------------------------------
 
 ## README for image_to_pdf.py:
+
 ----------How to use----------
 python image_to_pdf.py <imagefolder> <imageformat> <outfile>
 selects all files in <imagefolder>\n with filenames ending with <imageformat>,\n sorts them alphanumerically and\n combine them to form a single pdf\n in the path <outfile>
