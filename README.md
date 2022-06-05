@@ -13,6 +13,10 @@ Creates pdf out of all images in given directory.
 What sensible_sort.py does:
 Assists script2 in sorting images by name
 
+## metafile
+example given : 'sample_file.json'
+modify this file to choose a comic and episode
+
 ## README for webtoon_downloader.py:</br>
 
 Ways to use program from command line:</br>
